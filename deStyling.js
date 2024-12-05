@@ -1,0 +1,1 @@
+document.querySelector('.legacy-content').style.marginLeft = '600px'; document.querySelector('.legacy-left-nav').style.width = '600px';
